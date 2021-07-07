@@ -5,7 +5,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = "postgresql://postgres:44287eb3e0dbf085b2f141e50c9adc23@prisma-db.ctglncunlmxm.eu-west-1.rds.amazonaws.com:5432/postgres"
+  url      = "postgresql://postgres:44287eb3e0dbf085b2f141e50c9adc23@database-prisma.cq4udrncp84v.eu-west-1.rds.amazonaws.com:5432/postgres"
 }
 
 model User {
