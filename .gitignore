@@ -4,3 +4,4 @@ build
 lambda-layers*
 .DS_Store
 .serverless
+.env
